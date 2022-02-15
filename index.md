@@ -8,4 +8,4 @@ Online banking significantly reduces the banks' operating cost by reducing relia
 
 Some banks operate as a "direct bank" (also called "neobanks" or "virtual banks"), where they operate entirely via internet banking.
 
-Source: [Wikipedia] (https://en.wikipedia.org/wiki/Online_banking)
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Online_banking)
