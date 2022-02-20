@@ -34,3 +34,4 @@ In 2001, Bank of America became the first bank to top 3 million online banking c
 The early 2000s saw the rise of the branch-less banks as internet only institutions. These internet-based banks incur lower overhead costs than their brick-and-mortar counterparts. In the United States, deposits at most direct banks are FDIC-insured and offer the same level of insurance protection as traditional banks.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Online_banking)
+</div>
