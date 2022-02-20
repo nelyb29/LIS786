@@ -3,7 +3,7 @@ title: About
 layout: page
 permalink: /about/
 ---
-About
+<div class+"content-left" markdown="1">
 
 History
 Precursors
