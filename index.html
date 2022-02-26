@@ -6,39 +6,39 @@ layout: default
 <!-- Tabs with icons on Card -->
 <div class="card card-nav-tabs">
   <div class="card-header card-header-primary">
-    <!-- colors: "header-primary", "header-info", "header-success", "header-warning", "header-danger" -->
-    <div class="nav-tabs-navigation">
-      <div class="nav-tabs-wrapper">
-        <ul class="nav nav-tabs" data-tabs="tabs">
-          <li class="nav-item">
-            <a class="nav-link active show" href="#alpha" data-toggle="tab">Sort alphabetically<div class="ripple-container"></div>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#weight" data-toggle="tab">Sort by weight<div class="ripple-container"></div>
-            </a>
-          </li>
-        </ul>
-      </div>
+<!-- colors: "header-primary", "header-info", "header-success", "header-warning", "header-danger" -->
+  <div class="nav-tabs-navigation">
+    <div class="nav-tabs-wrapper">
+      <ul class="nav nav-tabs" data-tabs="tabs">
+        <li class="nav-item">
+          <a class="nav-link active show" href="#alpha" data-toggle="tab">Sort alphabetically<div class="ripple-container"></div>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#weight" data-toggle="tab">Sort by weight<div class="ripple-container"></div>
+          </a>
+        </li>
+      </ul>
     </div>
   </div>
-  <div class="card-body ">
+  </div>
+  <div class="card-body">
     <div class="tab-content">
       <div class="tab-pane active show" id="alpha">
         {% for online_banking in site.online_banking %}
         <div class="online_banking-teaser clearfix">
-            <div class="teaser-content">
-              <h2><a href="{{ online_banking.url | relative_url }}" alt="go to detail page">{{ online_banking.title }}</a></h2>
-              <p>{{ online_banking.content | truncatewords: 50, '...' }}</p>
-              <p><small>Weight Category: <em>{{ online_banking.category }}</em></small></p>
-              <p><a href="{{ online_banking.source }}" target="_blank">Source</a></p>
-            </div>
+          <div class="teaser-content">
+            <h2><a href="{{ online_banking.url | relative_url }}" alt="go to detail page">{{ online_banking.title }}</a></h2>
+            <p>{{ online_banking.content | truncatewords: 50, '...' }}</p>
+            <p><small>Weight Category: <em>{{ online_banking.category }}</em></small></p>
+            <p><a href="{{ online_banking.source }}" target="_blank">Source</a></p>
+          </div>
         </div>
         {% endfor %}
-        </div>
+      </div>
       <div class="tab-pane" id="weight">
         <p>Coming Soon.</p>
+      </div>
     </div>
-  </div>
 </div>
 <!-- End Tabs with icons on Card -->
