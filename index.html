@@ -27,15 +27,15 @@ layout: default
   <div class="card-body ">
     <div class="tab-content">
       <div class="tab-pane active" id="alpha">
-        {% for online_bank in site.online_banking %}
-        <div class="online_bank-teaser clearfix">
+        {% for online in site.online_banking %}
+        <div class="online-teaser clearfix">
           <div class="img-left teaser-image">
-            <a href="{{ online_bank.url }}" alt="Go to detail page"><img src="{{ online_bank.image }} alt="photo"></a>
+            <a href="{{ online.url }}" alt="Go to detail page"><img src="{{ online.image }} alt="photo"></a>
             <div class="teaser-content">
-              <h2><a href="{{ online_bank.url }}" alt="Go to detail page">{{ online_bank.title }}</a></h2>
-              <p>{{ online_bank.content | truncatewords: 50, '...'}}</p>
-              <p><small>Weight Category: <em>{{ online_bank.category }}</em></small></p>
-              <p><a href="{{ online_bank.source }}" target="_blank">Source</a></p>
+              <h2><a href="{{ online.url }}" alt="Go to detail page">{{ online.title }}</a></h2>
+              <p>{{ online.content | truncatewords: 50, '...'}}</p>
+              <p><small>Weight Category: <em>{{ online.category }}</em></small></p>
+              <p><a href="{{ online.source }}" target="_blank">Source</a></p>
             </div>
         </div>
         {% endfor %}
