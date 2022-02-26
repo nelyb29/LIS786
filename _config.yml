@@ -1,6 +1,6 @@
 title: Online Banking
 theme: jekyll-theme-cayman
 collections:
-  Online_banking:
+  online_banking:
     output: true
     layout: online_banking
