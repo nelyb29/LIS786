@@ -1,7 +1,7 @@
 ---
 title: Online Banks
 source: https://www.investopedia.com/terms/o/onlinebanking.asp
-category: banks-online banks
+category: description
 ---
 Some banks operate exclusively online, with no physical branch. These banks handle customer service by phone, email, or online chat. Online banking is frequently performed on mobile devices now that Wi-Fi and 4G networks are widely available. It can also be done on a desktop computer.
 
