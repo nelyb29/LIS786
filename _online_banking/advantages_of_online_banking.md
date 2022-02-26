@@ -1,7 +1,7 @@
 ---
 title: Advantages of Online Banking
 source: https://www.investopedia.com/terms/o/onlinebanking.asp
-category: online banking advantages
+category: advantages
 ---
 Convenience is a major advantage of online banking. Basic banking transactions such as paying bills and transferring funds between accounts can easily be done 24 hours a day, seven days a week, wherever a consumer wishes.
 
