@@ -1,7 +1,7 @@
 ---
 title: What Is Online Banking?
 source: https://www.investopedia.com/terms/o/onlinebanking.asp
-category: description for Online Banking
+category: description
 ---
 Online banking allows a user to conduct financial transactions via the Internet. Online banking is also known as Internet banking or web banking.
 
