@@ -27,7 +27,7 @@ layout: default
   <div class="card-body ">
     <div class="tab-content">
       <div class="tab-pane active" id="alpha">
-        {% for online_banking in site.online_banking %}
+        {% for online_banking in site.online_bankings %}
         <div class="online_banking-teaser clearfix">
           <div class="img-left teaser-image">
             <a href="{{ online_banking.url | relative_url }}" alt="go to detail page"><img src="{{ online_banking.image }} alt="photo"></a>
