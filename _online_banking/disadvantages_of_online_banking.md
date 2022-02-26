@@ -1,7 +1,7 @@
 ---
 title: Disadvantages of Online Banking
 source: https://www.investopedia.com/terms/o/onlinebanking.asp
-category: online banking disadvantages
+category: disadvantages
 ---
 For a novice online banking customer, using systems for the first time may present challenges that prevent transactions from being processed, which is why some consumers prefer face-to-face transactions with a teller.
 
