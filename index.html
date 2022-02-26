@@ -31,6 +31,7 @@ layout: default
         <div class="online_banking-teaser clearfix">
           <div class="img-left teaser-image">
             <a href="{{ online_banking.url | relative.url }}" alt="Go to detail page"><img src="{{ online_banking.image }} alt="photo"></a>
+              </div>
             <div class="teaser-content">
               <h2><a href="{{ online_banking.url | relative.url }}" alt="Go to detail page">{{ online_banking.title }}</a></h2>
               <p>{{ online_banking.content | truncatewords: 50, '...' }}</p>
