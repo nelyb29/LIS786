@@ -1,7 +1,7 @@
 ---
 title: Understanding Online Banking
 source: https://www.investopedia.com/terms/o/onlinebanking.asp
-category: description for Online Banking
+category: description
 ---
 With online banking, consumers aren't required to visit a bank branch to complete most of their basic banking transactions. They can do all of this at their own convenience, wherever they want—at home, at work, or on the go.
 
