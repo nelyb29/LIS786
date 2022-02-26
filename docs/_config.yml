@@ -3,4 +3,4 @@ theme: jekyll-theme-cayman
 collections:
   Online_banking:
     output: true
-    layout: Online_banking
+    layout: online_banking
