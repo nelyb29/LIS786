@@ -35,3 +35,6 @@ The early 2000s saw the rise of the branch-less banks as internet only instituti
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Online_banking)
 </div>
+<div class="img-right" markdown="1">
+! [Image of online banking](/assets/images/online_banking.jpg)
+</div>
