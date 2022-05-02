@@ -7,7 +7,7 @@
     gtag('js', new Date());
     gtag('config','{{ site.google_analytics }}');
   </script>
-  {% endif %}  
+  {% endif %}
   <meta charset="UTF-8">
 {% seo %}
   <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -16,5 +16,7 @@
   <meta name="theme-color" content="#157878">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/material-kit.min.css | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.github.build_revision | relative_url }}">
   {% include head-custom.html %}
 </head>
