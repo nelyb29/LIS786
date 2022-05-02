@@ -38,3 +38,4 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Online_banking)
 <div class="img-right" markdown="1">
 ! [Image of online banking](/assets/images/online_banking.jpg)
 </div>
+<div class="clearfix"></div>
